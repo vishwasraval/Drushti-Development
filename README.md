@@ -1,6 +1,6 @@
 # drushti
 
-A new Flutter project.
+A new Flutter project for visually challenged people to help them in their daily life to recognize their sorroundings.
 
 ## Getting Started
 

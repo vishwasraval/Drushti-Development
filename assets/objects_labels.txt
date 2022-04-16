@@ -1,0 +1,51 @@
+ Furniture
+ Shaving Equipment
+ Cooling Equipment
+ Washing Machine
+ Armchair
+ Bed
+ Bicycle
+ Books
+ Bowl
+ Car
+ Cleaning Equipment
+ Laptop
+ Cooking Utensils
+ Cups
+ Cutlery
+ Dish Rack
+ Refrigerator
+ Door
+ Fruits
+ Hair Brush
+ Music Equipment
+ Light Source
+ Motorcycle
+ Shoes
+ Paper
+ Mobile
+ Plates
+ Plate Of Food
+ Power Switch
+ Shampoo
+ Soap
+ Sofa
+ Gas Stove
+ Toothpaste
+ Tv
+ Vegetables
+ Wardrobe
+ Glasses
+ Pen
+ Toothbrush
+ Wall
+ Bag
+ Bottle
+ Charger
+ Fire Extinguisher
+ Flower
+ Shirt
+ Person
+ Traffic Light
+ Medication
+ Teeth

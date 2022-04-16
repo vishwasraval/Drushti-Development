@@ -1,0 +1,45 @@
+name: drushti
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 2.0.0+2
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  english_words:
+  flutter_tts:
+  hexcolor:
+  splashscreen:
+  image_picker:
+  flutter_icons:
+  http:
+  simple_ocr_plugin:
+  path:
+  shared_preferences:
+  telephony:
+  shake:
+  geolocator:
+  vibration:
+  translator:
+  image_color_picker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  camera:
+  flutter_launcher_icons:
+  tflite:
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

@@ -1,0 +1,8 @@
+One Hundred
+Two Hundred
+Five Hundred
+Ten
+Twenty
+Fifty
+Two Thousand
+No Currency Detected

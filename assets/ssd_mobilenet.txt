@@ -1,0 +1,142 @@
+ Antelope
+ Badger
+ Bat
+ Bear
+ Bee
+ Beetle
+ Bison
+ Boar
+ Butterfly
+ Cat
+ Caterpillar
+ Chimpanzee
+ Cockroach
+ Cow
+ Coyote
+ Crab
+ Crow
+ Deer
+ Dog
+ Dolphin
+ Donkey
+ Duck
+ Eagle
+ Elephant
+ Flamingo
+ Fly
+ Fox
+ Goat
+ Goldfish
+ Goose
+ Gorilla
+ Grasshopper
+ Hamster
+ Hare
+ Hedgehog
+ Hippopotamus
+ Horse
+ Humming Bird
+ Hyena
+ Kangaroo
+ Koala
+ Leopard
+ Lion
+ Lizard
+ Lobster
+ Mosquitos
+ Moth
+ Mouse
+ Octopus
+ Orangutan
+ Otter
+ Owl
+ Ox
+ Panda
+ Parrot
+ Penguin
+ Pelecaniformes
+ Pig
+ Pigeon
+ Porcupine
+ Possum
+ Raccoon
+ Reindeer
+ Rhinoceros
+ Sandpiper
+ Seahorse
+ Seal
+ Shark
+ Sheep
+ Snake
+ Sparrow
+ Squid
+ Squirrel
+ Starfish
+ Swan
+ Tiger
+ Turkey
+ Turtle
+ Whale
+ Wolf
+ Woodpecker
+ Zebra
+ Home Decoration
+ Furniture
+ Shaving Equipment
+ Cooling Equipment
+ Heater
+ Street
+ Alcoholic Drinks
+ Armchair
+ Bed
+ Bicycle
+ Books
+ Bowl
+ Car Keys
+ Car
+ Cleaning Equipment
+ Computer
+ Cooking Pot
+ Cooking Utensils
+ Cup
+ Cutlery
+ Diaper
+ Dish Brush
+ Dish Rack
+ Earrings
+ Refrigerator
+ Fruit
+ Hair Brush
+ Home
+ Musical Instrument
+ Light Source
+ Sanitary Pads
+ Motorcycle
+ Music Equipment
+ Shoes
+ Phone
+ Plate With Food
+ Plate
+ Power Switch
+ Soap
+ Sofa
+ Gas Stove
+ Toilet
+ Trash
+ TV
+ Vegetables
+ Wall Clock
+ Wrist Watch
+ Glasses
+ Hand
+ Pen
+ Toothbrush
+ Bag
+ Bottle
+ Fire Extinguisher
+ Flowers
+ Person
+ Shirt
+ Traffic Light
+ Window
+ Door
